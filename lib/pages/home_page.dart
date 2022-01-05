@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:app/widgets/drawer.dart';
 import 'package:flutter/material.dart';
 // import 'package:matcher/matcher.dart';
@@ -9,7 +11,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Catalog App"),
+        title: const Text(
+          "Catalog App",
+          style: TextStyle(color: Colors.black),
+        ),
       ),
       body: Center(
         child: Container(

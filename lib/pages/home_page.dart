@@ -1,3 +1,4 @@
+import 'package:app/widgets/drawer.dart';
 import 'package:flutter/material.dart';
 // import 'package:matcher/matcher.dart';
 
@@ -15,7 +16,7 @@ class HomePage extends StatelessWidget {
           child: const Text("Welcome to flutter"),
         ),
       ),
-      drawer: const Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }

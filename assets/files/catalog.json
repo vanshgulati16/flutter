@@ -1,0 +1,69 @@
+{
+    "products" :[
+        {
+            "id": 1,
+          "name": "iPhone 12 Pro",
+          "desc": "Apple iPhone 12th generation",
+          "price": 999,
+          "color": "#33505a",
+          "image":
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+
+        },
+        {
+            "id": 2,
+          "name": "Pixel 5",
+          "desc": "Google Pixel phone 5th generation",
+          "price": 699,
+          "color": "#00ac51",
+          "image":
+              "https://rukminim1.flixcart.com/image/416/416/kflftzk0/mobile/h/q/u/google-pixel-4a-ga02099-in-original-imafwyznjqayzp2f.jpeg?q=70"
+
+        },
+        {
+            "id": 3,
+          "name": "M1 Macbook Air",
+          "desc": "Apple Macbook air with apple silicon",
+          "price": 1099,
+          "color": "#0ebfae",
+          "image":
+              "https://rukminim1.flixcart.com/image/416/416/khdqnbk0/computer/5/d/e/apple-original-imafxfyqkdfxqjab.jpeg?q=70"
+
+        },
+        {
+            "id": 4,
+          "name": "Playstation 5",
+          "desc": "Sony playstation 5th generation",
+          "price": 500,
+          "color": "#f73984",
+          "image":
+              "https://rukminim1.flixcart.com/image/416/416/kj7gwi80/gamingconsole/t/v/v/cfi-1008a01r-825-sony-no-original-imafytxe7twjskbx.jpeg?q=70"
+
+        },
+        {
+            "id": 5,
+          "name": "Ipad Pro",
+          "desc": "Apple Ipad Pro 2020 edition",
+          "price": 799,
+          "color": "#e3e4e9",
+          "image":
+              "https://rukminim1.flixcart.com/image/416/416/kod858w0/tablet/i/e/x/mhqr3hn-a-apple-original-imag2ujneawpdgzs.jpeg?q=70"
+
+        },
+        {
+            "id": 6,
+          "name": "Airpods Pro",
+          "desc": "Apple Airpods Pro 1st edition",
+          "price": 200,
+          "color": "#1c1c1c",
+          "image":
+              "https://rukminim1.flixcart.com/image/416/416/kpinwy80/headphone/r/1/q/mwp22hn-a-apple-original-imag3qe9eqkfhmg8.jpeg?q=70"
+
+        }
+
+        
+    
+    
+          
+    ]
+}
